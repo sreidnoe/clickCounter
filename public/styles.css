@@ -1,0 +1,12 @@
+.content {
+  margin-top: 180px;
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-image: linear-gradient(to bottom right, green, yellow);
+  border: 10px solid black;
+}
+
+body {
+  background-image: url(https://i0.wp.com/asiatimes.com/wp-content/uploads/2017/07/15048058263_05c06bf2fd_z.jpg?fit=640%2C426&ssl=1);
+}
